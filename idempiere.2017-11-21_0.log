@@ -1,0 +1,5 @@
+*** 2017-11-21 09:09:18.592 idempiere Log (CLogFile) ***
+09:09:18.592 Setup.<init>: iDempiere(r) Release 2.1_2014-10-31 -Smart Suite ERP, CRM and SCM- (c) 1999-2013 iDempiere(r); Implementation: iDempiere - Supported by iDempiere community [1]
+09:09:18.748 ConfigurationData.load: /home/dev/idempiereEnv.properties [1]
+
+*** 2017-11-21 09:09:31.278 idempiere Log (CLogFile) ***
